@@ -11,7 +11,7 @@
   <li>Message notification on Telegram.</li>
   <li>Message notification on Phone.</li>
   </ol>
-  ![images](https://user-images.githubusercontent.com/109274817/210067359-ebbfbd1c-b5dc-4886-9a95-4b723c98dc19.png)
+  ![image](https://user-images.githubusercontent.com/109274817/210067408-3b0e2100-974a-404b-8f3d-db33cbcbc4dc.png)
 
 
 
