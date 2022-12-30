@@ -11,7 +11,7 @@
   <li>Message notification on Telegram.</li>
   <li>Message notification on Phone.</li>
   </ol>
-  <img src = "https://www.google.com/imgres?imgurl=https%3A%2F%2Fecontrolsystems.com%2Fapplication%2Ffiles%2F3816%2F0546%2F6104%2F11.14.20-benefits-of-iot.jpg&imgrefurl=https%3A%2F%2Fecontrolsystems.com%2Fblog%2Fbenefits-iot-based-temperature-monitoring&tbnid=JQzMjeZinT-T3M&vet=12ahUKEwi12b_MoaH8AhWLxKACHYMvCLgQMygVegUIARDxAQ..i&docid=G80IRM7Xjt1SgM&w=670&h=547&q=temperature%20monitoring%20system%20using%20iot&ved=2ahUKEwi12b_MoaH8AhWLxKACHYMvCLgQMygVegUIARDxAQ" alt = "IoT Temp. Montoring System" height="450" width="450">
+  <img src = "https://www.google.com/imgres?imgurl=https%3A%2F%2Ffiles.readme.io%2Fbc8be93-1.png&imgrefurl=https%3A%2F%2Fdocs.boltiot.com%2Fdocs%2Fgetting-started-with-bolt-temperature-monitoring-system&tbnid=ykHp4j0iDvARcM&vet=12ahUKEwi12b_MoaH8AhWLxKACHYMvCLgQMygXegUIARD1AQ..i&docid=H44iR6EdPf2gKM&w=800&h=600&q=temperature%20monitoring%20system%20using%20iot&ved=2ahUKEwi12b_MoaH8AhWLxKACHYMvCLgQMygXegUIARD1AQ" alt = "IoT Temp. Montoring System" height="450" width="450">
     
 
 
