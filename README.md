@@ -5,6 +5,11 @@
 </p>
 <h3>Introduction</h3>
 <p>In this IDEA we gonna to make a temperature monitoring system where it gonna to sense temperature in pharmaceutical industry; because certain medicines need a definite temperature to be manufactured if the temperature fluctuates the medicine can be poisonous.</p>
+  <p>So it will sense the fluctuation of temperature and will report it to the user by message:
+  <ol>Message notification on Whatsapp.</ol>
+  <ol>Message notification on Telegram.</ol>
+  <ol>Message notification on Phone.</ol>
+    
 
 
 
