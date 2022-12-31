@@ -36,14 +36,14 @@ Its applications in the field of remote monitoring and advanced analytics are re
     <p>The hardware components that we will be required to set up the circuit:
     <ol>
       <li><b>Arduino Uno</b></li>
-      <img align = "center" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTELOL3O3nBIIOK5wrPXE-B8br_Tfwd5c9-gQ&usqp=CAU" height ="400" width = "600">
+      <img align ="center" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTELOL3O3nBIIOK5wrPXE-B8br_Tfwd5c9-gQ&usqp=CAU" height ="400" width = "600">
       <li><b>LM35 IC (Temperature sensor)</b></li>
       <img align = "center" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIe7MenSVxwMzhWFQQQrqyw2DPxo9dAJT5wQ&usqp=CAU" height = "400" width="600">
       <li><b>ESP01 (esp8266 family)</b></li>
-      <img align = "center" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRifwL0wro68Rmx45OHOS-ycavab384Z2Dquw&usqp=CAU" height = "400" width="600">
+      <img align ="center" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRifwL0wro68Rmx45OHOS-ycavab384Z2Dquw&usqp=CAU" height = "400" width="600">
     </ol>
     <li><b>2*16 LCD Display</b></li>
-    <img align = "center" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLrmLr2ttFymzoW6n07udkSsTW8f4gmR9kPQ&usqp=CAU" height = "400" width="600">
+    <img align ="center" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLrmLr2ttFymzoW6n07udkSsTW8f4gmR9kPQ&usqp=CAU" height = "400" width="600">
     </p>
   </div>
   
