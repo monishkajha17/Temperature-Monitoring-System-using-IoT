@@ -31,6 +31,15 @@ Its applications in the field of remote monitoring and advanced analytics are re
     <p>In this Project I will be building a Temperature monitoring system to collect the data and send it over to the cloud, where I'll be creating graphs to visualize the data. This project will be extended to Predict the future sensor values via machine learning over the  Cloud.It's working will be like the sensor(LM35)will sense the temperature of the sorrounding and will ensure the temperature is in set threshold range if the temperature fluctuates or changes to go beyond the threshold range it will give security notifications via SMS, Whatsapp message.</p>
     
   </div>
+  <div>
+    <h3>Hardware Components</h3>
+    <p>The hardware components that we will be required to set up the circuit:
+    <ol>
+      <li><b>Arduino Uno</b></li>
+      <img align = "center" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTELOL3O3nBIIOK5wrPXE-B8br_Tfwd5c9-gQ&usqp=CAU" height ="400" width = "600">
+    </ol>
+    </p>
+  </div>
   
 
 
