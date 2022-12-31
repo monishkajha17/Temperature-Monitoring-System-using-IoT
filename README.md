@@ -11,6 +11,7 @@
   <li>Message notification on Telegram.</li>
   <li>Message notification on Phone.</li>
   </ol>
+  <img align = "left" src = "https://files.readme.io/bc8be93-1.png" alt ="Temperature" alt ="Temperature monitoring" height ="400" width = "600">
   
 
 
