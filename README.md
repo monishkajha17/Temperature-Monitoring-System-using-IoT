@@ -42,6 +42,8 @@ Its applications in the field of remote monitoring and advanced analytics are re
       <li><b>ESP01 (esp8266 family)</b></li>
       <img align = "center" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRifwL0wro68Rmx45OHOS-ycavab384Z2Dquw&usqp=CAU" height = "400" width="600">
     </ol>
+    <li><b>2*16 LCD Display</b></li>
+    <img align = "center" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLrmLr2ttFymzoW6n07udkSsTW8f4gmR9kPQ&usqp=CAU" height = "400" width="600">
     </p>
   </div>
   
