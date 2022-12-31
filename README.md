@@ -23,10 +23,14 @@ Its applications in the field of remote monitoring and advanced analytics are re
    <li><b>Digital temperature monitoring in laboratories:</b>Temperature plays a crucial role in defining the chemical composition or integrity of volatile compounds and biological samples respectively. They can render useless and affect experimental conclusions or even worse, the user's health, if not kept under a strict temperature range. It is, therefore, vital for laboratories and test clinics to maintain a controlled environment for successful testing on these samples.      </li>
    <li><b>Food Safety Compliances:</b>The food industry  uses heater/freezer fitted chambers to develop a controllable environment for their goods. IoT temperature monitoring solution allows the food industry to monitor the temperature of these chambers allowing them to ensure that the regulatory compliances are met. They can remotely monitor the temperature of the items and confirm the quality of their products.</li>
    <li><b>Warehouse and Inventory Management:</b>Some products can be sensitive to humidity & temperature. Storing them in a normal warehouse can result in their corrosion and are thus required to be stored in a temperature-controlled environment. By using heaters/freezers, the temperature and humidity of the warehouses can be maintained to ensure the quality of a specific type of product. By using IoT based temperature monitoring solution, a warehousing and inventory manager can track and remotely change the temperature of the warehouse. This reduces inspection costs and helps companies to ensure the quality of their products.</li>
-    <li><b>Temperature Monitoring in Medicine Mnaufacturing:</b>In pharmaceutical industry; because certain medicines need a definite temperature to be manufactured if the temperature fluctuates the medicine can be poisonous. So it will sense the fluctuation of temperature and will report it to the user by message</li>
+    <li><b>Temperature Monitoring in Medicine Mnaufacturing:</b>In pharmaceutical industry; because certain medicines need a definite temperature to be manufactured if the temperature fluctuates the medicine can be poisonous. So it will sense the fluctuation of temperature and will report it to the user by message.</li>
  
   </ol>
-  <img align = "left" src = "https://files.readme.io/bc8be93-1.png" alt ="Temperature" alt ="Temperature monitoring" height ="300" width = "400">
+  <div>
+  <h3>Building of Project</h3>
+    <p>In this Project I will be building a Temperature monitoring system to collect the data and send it over to the cloud, where I'll be creating graphs to visualize the data. This project will be extended to Predict the future sensor values via machine learning over the  Cloud.It's working will be like the sensor(LM35)will sense the temperature of the sorrounding and will ensure the temperature is in set threshold range if the temperature fluctuates or changes to go beyond the threshold range it will give security notifications via SMS, Whatsapp message.</p>
+    
+  </div>
   
 
 
