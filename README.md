@@ -37,6 +37,9 @@ Its applications in the field of remote monitoring and advanced analytics are re
     <ol>
       <li><b>Arduino Uno</b></li>
       <img align = "center" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTELOL3O3nBIIOK5wrPXE-B8br_Tfwd5c9-gQ&usqp=CAU" height ="400" width = "600">
+      <li><b>LM35 IC (Temperature sensor)</b></li>
+      <img align = "center" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIe7MenSVxwMzhWFQQQrqyw2DPxo9dAJT5wQ&usqp=CAU" height = "400" width="600">
+
     </ol>
     </p>
   </div>
