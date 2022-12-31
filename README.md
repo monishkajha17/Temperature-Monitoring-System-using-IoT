@@ -5,7 +5,9 @@
 </p>
 <h2>Introduction</h2>
   <img align = "right" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVdVSFLhVXxNibetevRfxOsEKuu1Fzt_oFhy1QuB6llxUUrwv-7RCbXcadt34YwZy04W8&usqp=CAU" alt ="IOT" height = "300" width = "400">
-<p>In this IDEA we gonna to make a temperature monitoring system where it gonna to sense temperature in pharmaceutical industry; because certain medicines need a definite temperature to be manufactured if the temperature fluctuates the medicine can be poisonous.</p>
+<p>The Internet of Things (IoT) describes the network of physical objects—“things”—that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the internet. The Internet of Things technology has been growing rapidly and has already bypassed conventional systems in terms of features and functionalities. Its applications in the field of remote monitoring and advanced analytics are revolutionizing businesses and are offering exemplary benefits to them.
+
+</p>
   <p>So it will sense the fluctuation of temperature and will report it to the user by message:
   <ol>
   <li>Message notification on Whatsapp.</li>
