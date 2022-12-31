@@ -25,7 +25,7 @@ Its applications in the field of remote monitoring and advanced analytics are re
    <li><b>Warehouse and Inventory Management:</b>Some products can be sensitive to humidity & temperature. Storing them in a normal warehouse can result in their corrosion and are thus required to be stored in a temperature-controlled environment. By using heaters/freezers, the temperature and humidity of the warehouses can be maintained to ensure the quality of a specific type of product. By using IoT based temperature monitoring solution, a warehousing and inventory manager can track and remotely change the temperature of the warehouse. This reduces inspection costs and helps companies to ensure the quality of their products.</li>
     <li><b>Temperature Monitoring in Medicine Mnaufacturing:</b>In pharmaceutical industry; because certain medicines need a definite temperature to be manufactured if the temperature fluctuates the medicine can be poisonous. So it will sense the fluctuation of temperature and will report it to the user by message.</li>
  
-  </ol>
+  
   <div>
   <h3>Building of Project</h3>
     <p>In this Project I will be building a Temperature monitoring system to collect the data and send it over to the cloud, where I'll be creating graphs to visualize the data. This project will be extended to Predict the future sensor values via machine learning over the  Cloud.It's working will be like the sensor(LM35)will sense the temperature of the sorrounding and will ensure the temperature is in set threshold range if the temperature fluctuates or changes to go beyond the threshold range it will give security notifications via SMS, Whatsapp message.</p>
@@ -41,11 +41,10 @@ Its applications in the field of remote monitoring and advanced analytics are re
       <img align = "center" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIe7MenSVxwMzhWFQQQrqyw2DPxo9dAJT5wQ&usqp=CAU" height = "400" width="600">
       <li><b>ESP01 (esp8266 family)</b></li>
       <img align ="center" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRifwL0wro68Rmx45OHOS-ycavab384Z2Dquw&usqp=CAU" height = "400" width="600">
-    
-    <li><b>2*16 LCD Display</b></li>
+     <li><b>2*16 LCD Display</b></li>
     <img align ="center" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLrmLr2ttFymzoW6n07udkSsTW8f4gmR9kPQ&usqp=CAU" height = "400" width="600">
     </ol>
-      </p>
+    </p>
   </div>
   
 
