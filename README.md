@@ -40,6 +40,7 @@ Its applications in the field of remote monitoring and advanced analytics are re
       <li><b>LM35 IC (Temperature sensor)</b></li>
       <img align = "center" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIe7MenSVxwMzhWFQQQrqyw2DPxo9dAJT5wQ&usqp=CAU" height = "400" width="600">
       <li><b>ESP01 (esp8266 family)</b></li>
+      <img align = "center" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRifwL0wro68Rmx45OHOS-ycavab384Z2Dquw&usqp=CAU" height = "400" width="600">
     </ol>
     </p>
   </div>
