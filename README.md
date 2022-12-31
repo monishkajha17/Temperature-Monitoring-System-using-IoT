@@ -14,15 +14,17 @@
  </div>
  <div>
  <p>
-Its applications in the field of remote monitoring and advanced analytics are revolutionizing businesses and are offering exemplary benefits to them.One such application of IoT is temperature monitoring. A temperature monitoring solution is immensely beneficial to industries where temperature plays a crucial role in defining the quality of the products. Moreover, in a cold chain, a temperature monitoring solution allow a logistic manager to monitor the temperature of the item  real-time.
+Its applications in the field of remote monitoring and advanced analytics are revolutionizing businesses and are offering exemplary benefits to them.One such application of IoT is <b>temperature monitoring</b>. A <b>temperature monitoring</b> solution is immensely beneficial to industries where temperature plays a crucial role in defining the quality of the products. Moreover, in a cold chain, a temperature monitoring solution allow a logistic manager to monitor the temperature of the item  real-time.The implementation of this solution is really helpful for goods that are temperature-sensitive. It is convenient to use and help in confirming the quality of the products during warehousing, manufacturing, storing and shipping processes.
   </p>
  </div>
 
-  <p>So it will sense the fluctuation of temperature and will report it to the user by message:
+  <p>The places where Temperature Monitoring System can be used:
   <ol>
-  <li>Message notification on Whatsapp.</li>
-  <li>Message notification on Telegram.</li>
-  <li>Message notification on Phone.</li>
+   <li><b>Digital temperature monitoring in laboratories:</b>Temperature plays a crucial role in defining the chemical composition or integrity of volatile compounds and biological samples respectively. They can render useless and affect experimental conclusions or even worse, the user's health, if not kept under a strict temperature range. It is, therefore, vital for laboratories and test clinics to maintain a controlled environment for successful testing on these samples.      </li>
+   <li><b>Food Safety Compliances:</b>The food industry  uses heater/freezer fitted chambers to develop a controllable environment for their goods. IoT temperature monitoring solution allows the food industry to monitor the temperature of these chambers allowing them to ensure that the regulatory compliances are met. They can remotely monitor the temperature of the items and confirm the quality of their products.</li>
+   <li><b>Warehouse and Inventory Management:</b>Some products can be sensitive to humidity & temperature. Storing them in a normal warehouse can result in their corrosion and are thus required to be stored in a temperature-controlled environment. By using heaters/freezers, the temperature and humidity of the warehouses can be maintained to ensure the quality of a specific type of product. By using IoT based temperature monitoring solution, a warehousing and inventory manager can track and remotely change the temperature of the warehouse. This reduces inspection costs and helps companies to ensure the quality of their products.</li>
+    <li><b>Temperature Monitoring in Medicine Mnaufacturing:</b>In pharmaceutical industry; because certain medicines need a definite temperature to be manufactured if the temperature fluctuates the medicine can be poisonous. So it will sense the fluctuation of temperature and will report it to the user by message</li>
+ 
   </ol>
   <img align = "left" src = "https://files.readme.io/bc8be93-1.png" alt ="Temperature" alt ="Temperature monitoring" height ="300" width = "400">
   
