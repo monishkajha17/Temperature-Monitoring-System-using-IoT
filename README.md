@@ -5,7 +5,7 @@
 </p>
 <h2>Introduction</h2>
   <img align = "right" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVdVSFLhVXxNibetevRfxOsEKuu1Fzt_oFhy1QuB6llxUUrwv-7RCbXcadt34YwZy04W8&usqp=CAU" alt ="IOT" height = "300" width = "400">
-<p>The Internet of Things (IoT) describes the network of physical objects—“things”—that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the internet. The Internet of Things technology has been growing rapidly and has already bypassed conventional systems in terms of features and functionalities. Its applications in the field of remote monitoring and advanced analytics are revolutionizing businesses and are offering exemplary benefits to them.
+<p>The Internet of Things (IoT) describes the network of physical objects—“things”—that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the internet. The Internet of Things technology has been growing rapidly and has already bypassed conventional systems in terms of features and functionalities.By means of low-cost computing, the cloud, big data, analytics, and mobile technologies, physical things can share and collect data with minimal human intervention. In this hyperconnected world, digital systems can record, monitor, and adjust each interaction between connected things. The physical world meets the digital world—and they cooperate. Its applications in the field of remote monitoring and advanced analytics are revolutionizing businesses and are offering exemplary benefits to them.
 
 </p>
   <p>So it will sense the fluctuation of temperature and will report it to the user by message:
