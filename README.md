@@ -36,17 +36,17 @@ Its applications in the field of remote monitoring and advanced analytics are re
     <p>The hardware components that we will be required to set up the circuit:
     <ol>
       <li><b>Arduino Uno</b></li>
-      <img align ="center" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTELOL3O3nBIIOK5wrPXE-B8br_Tfwd5c9-gQ&usqp=CAU" height ="400" width = "600">
+      <img align ="center" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTELOL3O3nBIIOK5wrPXE-B8br_Tfwd5c9-gQ&usqp=CAU" alt ="Arduino Uno board" height ="400" width = "600">
       <li><b>LM35 IC (Temperature sensor)</b></li>
-      <img align = "center" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIe7MenSVxwMzhWFQQQrqyw2DPxo9dAJT5wQ&usqp=CAU" height = "400" width="600">
+      <img align = "center" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIe7MenSVxwMzhWFQQQrqyw2DPxo9dAJT5wQ&usqp=CAU" alt = "Temperature Sensor"height = "400" width="600">
       <li><b>ESP01 (esp8266 family)</b></li>
-      <img align ="center" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRifwL0wro68Rmx45OHOS-ycavab384Z2Dquw&usqp=CAU" height = "400" width="600">
+      <img align ="center" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRifwL0wro68Rmx45OHOS-ycavab384Z2Dquw&usqp=CAU" alt="ESP01" height = "400" width="600">
       <li><b>2*16 LCD Display</b></li>
-      <img align ="center" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLrmLr2ttFymzoW6n07udkSsTW8f4gmR9kPQ&usqp=CAU" height = "400" width="600">
+      <img align ="center" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLrmLr2ttFymzoW6n07udkSsTW8f4gmR9kPQ&usqp=CAU" alt="2*16 LCD" height = "400" width="600">
       <li><b>Battery and Arduino Connector</b></li> 
-      <img align = "center" src = "https://rukminim1.flixcart.com/image/416/416/jykfxjk0/electronic-hobby-kit/f/j/d/hw-battery-9v-with-connector-for-arduino-robotics-sunrobotics-original-imafgqz5dyaby58z.jpeg?q=70" height = "300" width="400">
+      <img align = "center" src = "https://rukminim1.flixcart.com/image/416/416/jykfxjk0/electronic-hobby-kit/f/j/d/hw-battery-9v-with-connector-for-arduino-robotics-sunrobotics-original-imafgqz5dyaby58z.jpeg?q=70" alt = "Battery" height = "300" width="400">
       <li><b>Connecting wires </b></li>
-      <img align = "center" src = "https://static-01.daraz.pk/p/2d353f94bbfe5ad50852c553b93ed96a.jpg" height = "300" width="400">
+      <img align = "center" src = "https://static-01.daraz.pk/p/2d353f94bbfe5ad50852c553b93ed96a.jpg" alt ="Connecting Wires" height = "300" width="400">
     
   </ol>
   </p>
@@ -62,6 +62,7 @@ Its applications in the field of remote monitoring and advanced analytics are re
        <li>Now, connect the ESP01 to the power port of the  arduino board,and enabling the WiFi of the ESP01.</li>
         <li>Its time to connect the power supply, the 9V battery to the arduino by sing the connector.Hence, the fabrication of circuit is finished now we will work on the cloud for further set-up</li>
   </p>
+  <img align = "center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6HtRFUsjt_qPf4sGdLXrJBggbgwChCss5tQ&usqp=CAU" alt ="Assembled Circuit" height = "400" width = "600">
   </div>
   
 
