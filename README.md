@@ -61,9 +61,7 @@ Its applications in the field of remote monitoring and advanced analytics are re
       <li>Now, we will connect the 2*16 LCD display to the arduino board, the 2*16 LCD display contains 16 pins which are conncted to digital pins on the arduino board, in which the the parallel combination of VSS(pin 1) and VCC(pin2) in series with 330 ohm resistor is connected to GND port on digital port side,the other pins are connected to the board. Hence the connection of LCD disolay is finished.</li>
        <li>Now, connect the ESP01 to the power port of the  arduino board,and enabling the WiFi of the ESP01.</li>
         <li>Its time to connect the power supply, the 9V battery to the arduino by sing the connector.Hence, the fabrication of circuit is finished now we will work on the cloud for further set-up</li>
-      
-    </p>
-    
+  </p>
   </div>
   
 
