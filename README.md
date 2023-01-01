@@ -46,7 +46,7 @@ Its applications in the field of remote monitoring and advanced analytics are re
       <li><b>Battery and Arduino Connector</b></li> 
       <img align = "center" src = "https://rukminim1.flixcart.com/image/416/416/jykfxjk0/electronic-hobby-kit/f/j/d/hw-battery-9v-with-connector-for-arduino-robotics-sunrobotics-original-imafgqz5dyaby58z.jpeg?q=70" height = "300" width="400">
       <li><b>Connecting wires </b></li>
-      <img align = "center" src = "https://static-01.daraz.pk/p/2d353f94bbfe5ad50852c553b93ed96a.jpg" height = "400" width="600">
+      <img align = "center" src = "https://static-01.daraz.pk/p/2d353f94bbfe5ad50852c553b93ed96a.jpg" height = "300" width="400">
     
   </ol>
   </p>
@@ -54,6 +54,10 @@ Its applications in the field of remote monitoring and advanced analytics are re
   
   <div>
     <h3>Assembling of circuit</h3>
+    <p>
+      To set up the circuit we will need all of the above mentioned hardware components, and we need to follow steps for setting up of circuit:
+      <li>Take the arduino uno board and connect the LM35 by connecting its ground pin to ground port of the board,then connect the voltage supply(Vs) to the 5V port on the board and then connect the Vout pin of LM35 to the A0 port on the port.Hence, the connection of temperature sensor is finished.</li>
+    </p>
   </div>
   
 
