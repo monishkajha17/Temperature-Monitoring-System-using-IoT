@@ -45,6 +45,8 @@ Its applications in the field of remote monitoring and advanced analytics are re
       <img align ="center" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLrmLr2ttFymzoW6n07udkSsTW8f4gmR9kPQ&usqp=CAU" height = "400" width="600">
       <li><b>Battery and Arduino Connector</b></li> 
       <img align = "center" src = "https://rukminim1.flixcart.com/image/416/416/jykfxjk0/electronic-hobby-kit/f/j/d/hw-battery-9v-with-connector-for-arduino-robotics-sunrobotics-original-imafgqz5dyaby58z.jpeg?q=70" height = "300" width="400">
+      <li><b>Connecting wires </b></li>
+      <img align = "center" src = "https://static-01.daraz.pk/p/2d353f94bbfe5ad50852c553b93ed96a.jpg" height = "400" width="600">
     
   </ol>
   </p>
