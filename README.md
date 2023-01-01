@@ -52,6 +52,10 @@ Its applications in the field of remote monitoring and advanced analytics are re
   </p>
   </div>
   
+  <div>
+    <h3>Assembling of circuit</h3>
+  </div>
+  
 
 
 
