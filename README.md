@@ -56,6 +56,7 @@ Its applications in the field of remote monitoring and advanced analytics are re
     <h3>Assembling of circuit</h3>
     <p>
       To set up the circuit we will need all of the above mentioned hardware components, and we need to follow steps for setting up of circuit:
+      <ul>
       <li>Take the arduino uno board and connect the LM35 by connecting its ground pin to ground port of the board,then connect the voltage supply(Vs) to the 5V port on the board and then connect the Vout pin of LM35 to the A0 port on the port.Hence, the connection of temperature sensor is finished.</li>
     </p>
   </div>
