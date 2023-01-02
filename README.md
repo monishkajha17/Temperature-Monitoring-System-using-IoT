@@ -65,6 +65,11 @@ Its applications in the field of remote monitoring and advanced analytics are re
   <img align = "center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6HtRFUsjt_qPf4sGdLXrJBggbgwChCss5tQ&usqp=CAU" alt ="Assembled Circuit" height = "400" width = "600">
   </div>
   
+<div>
+  <h3>Software Set-Up</h3>
+  
+</div>
+  
 
 
 
